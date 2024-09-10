@@ -37,7 +37,8 @@ PorterStemmer reduces words to their base or root form by chopping off the ends 
 **Lemmatization:**
 
 WordNetLemmatizer converts words into their lemma form, taking into account their part of speech. This is a more sophisticated form of stemming, producing linguistically accurate base forms.
-Part-of-Speech Tagging:
 
-**pos_tag** assigns a grammatical category to each word. Understanding the role of each word in a sentence is crucial for many advanced NLP applications like parsing or semantic analysis.
+**Part-of-Speech Tagging:**
+
+pos_tag assigns a grammatical category to each word. Understanding the role of each word in a sentence is crucial for many advanced NLP applications like parsing or semantic analysis.
 The script demonstrates how to process and analyze text using basic NLP techniques, from cleaning data and analyzing word frequencies to understanding word forms and grammatical roles. This comprehensive approach is typical in preparing text data for more complex processing or analysis tasks in NLP projects. Make sure to run this script in an environment where the required libraries are installed, or install them via pip.
